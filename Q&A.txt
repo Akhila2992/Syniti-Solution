@@ -1,0 +1,30 @@
+1. What’s your proudest achievement? It can be a personal project or something
+   you’ve worked on professionally. Just a short paragraph is fine, but I’d
+   love to know why you’re proud of it.
+	
+	My proudest achievement is and will always be my masters degree from Drexel University. 
+	I moved to United States after 23 years of being with my parents for education. The experience was beautiful,
+	I learnt a great deal about computers for sure but also grew emotionally, personally and financially independent. 
+	Migrating continents definitely changed my perspective of life. 
+	
+	
+
+2. What's a personal project you're currently working on? This could be a
+   coding side project, hobby, or otherwise real world project you're working
+   on.
+	I have a lot of projects currently running. One is I am finally learning new UI framework(React JS) and I am currently working
+	on a order management app for restaurants as a sample project. I am also learning and working on Kubernetes application development.
+	
+	
+3. Tell us about a technical book or article you read recently, why you liked
+   it, and why we should read it.
+   Its not a book or an article as such. I came across a few blog posts when I was trying to learn and setup terraform (for a project at work) and I came across 
+   a video why to move to terraform and a blog post explaining how to achieve it. 
+   https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
+   Terraform by hashicorp is based on the principle "DevOps first" and I think thats very interesting because most of the issues crop up in project delivery due to environment. 
+   Terraform eases the setting up of the environment, making it more efficient to debug issues.
+
+4. Tell us about one of your favorite products (physical or software) and one
+   specific aspect that makes it truly great.
+   My most favorite software in current times has to be JIRA. The ease of use, ease of maintenance of storyboards, tasks ,defects makes it truly great. 
+   
